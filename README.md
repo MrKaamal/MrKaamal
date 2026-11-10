@@ -1,4 +1,4 @@
-## Hi there 👋
+##                                    **Genius, Future Trillionaire, Good Man, Philanthropist**
 
 <!--
 **MrKaamal/MrKaamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=MD%20Fahad%20Kamal%20Lingkon&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Abraham%20Lincoln:%20The%20President&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   </a>
 
   <p align="center">
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:mr.kaamals@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/your-profile">
+    <a href="https://linkedin.com/in/mrkaamals">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/MrKaamal">
@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ---
 
+                   
 ### 🧠 About Me
 
 - 🎓 **B.Sc. in Computer Science & Engineering** at North South University (NSU)
-- **Genius, Future Trillionaire, Good Man, Philanthropist**
 - 🎓 **HSC Science** at Notre Dame College (NDC)
 - 🎓 **SSC Science** at Bhaluka Pilot High School (BPHS)
 - 🔬 Focusing on **Machine Intelligence**, sovereign AI agent runtimes, and deep learning architectures
