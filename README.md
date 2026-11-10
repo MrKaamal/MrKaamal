@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 ### 🧠 About Me
 
 - 🎓 **B.Sc. in Computer Science & Engineering** at North South University (NSU)
+- **Genius, Future Trillionaire, Good Man, Philanthropist**
+- 🎓 **HSC Science** at Notre Dame College (NDC)
+- 🎓 **SSC Science** at Bhaluka Pilot High School (BPHS)
 - 🔬 Focusing on **Machine Intelligence**, sovereign AI agent runtimes, and deep learning architectures
 - 🛠️ Building modular software backends, autonomous workflows, and low-code integrations
 - ⚡ Actively engineering with **Python, C, Java, and JavaScript**
